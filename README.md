@@ -19,6 +19,9 @@ The company wants to identify the characteristics of the target audience for eac
 - Income - annual income in US dollars
 - Miles - the average number of miles the customer expects to walk/run each week
 
+![image](https://github.com/vivdroid242/Customer_Segment_Analysis/assets/56084066/1589f8cc-2032-4d32-adb3-c78eb87721fd)
+
+
 ## Insights and Recommendations
 
 ### Target Market:
