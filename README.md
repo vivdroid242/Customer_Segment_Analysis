@@ -34,7 +34,7 @@ The majority of treadmill customers, who are typically aged between 20-30 and ha
 - Relationship Status: Usually in a relationship.
 - Usage: Prefer to use it 4-5 times a week.
 - Fitness Level: Have a fitness level of 5 out of 5.
-- Income: Earn more than $60,000
+- Income: > $60,000
 
 ### KP481 Customer Profile:
 - Age: Typically in their 20s.
