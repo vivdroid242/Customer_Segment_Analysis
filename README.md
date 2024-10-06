@@ -2,7 +2,7 @@
 
 ## Business Problem:
 **Aerofit** specializes in selling high-quality treadmills directly to individual customers for home use. 
-The company aims to identify the target audience for each type of treadmill it offers in order to provide better recommendations to new customers. Apart from that, they want to determine whether they should focus on selling a single model or continue offering multiple models.
+The company aims to identify the target audience for each type of treadmill it offers in order to provide better recommendations to new customers.
 
 ## Product Portfolio 
 - The KP281 is a treadmill for beginners that sells for $1,500.
