@@ -5,8 +5,8 @@
 The company aims to identify the target audience for each type of treadmill it offers in order to provide better recommendations to new customers.
 
 ## Product Portfolio 
-- The KP281 is a treadmill for beginners that sells for $1,500;
-- The KP481 is for mid-level runners and sells for $1,750;
+- The KP281 is a treadmill for beginners that sells for $1,500.
+- The KP481 is for mid-level runners and sells for $1,750.
 - The KP781 treadmill is for professionals, it has advanced features and it sells for $2,500.
 
 ## Data Dictionary
