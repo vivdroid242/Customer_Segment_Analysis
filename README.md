@@ -21,9 +21,6 @@ The company aims to identify the target audience for each type of treadmill it o
 - Miles - Estimated number of miles run per week on the treadmill.
 - Price - Price of the treadmill purchased (in USD).
 
-![image](https://github.com/vivdroid242/Customer_Segment_Analysis/assets/56084066/1589f8cc-2032-4d32-adb3-c78eb87721fd)
-
-
 ## Insights
 
 ![image](https://github.com/user-attachments/assets/03dd4acc-9ba1-466e-bb14-7643c3a2fca6)
